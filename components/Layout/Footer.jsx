@@ -10,8 +10,8 @@ const Footer = () => {
       <Wrapper>
         <Text color="accents-7">
           Made with ❤️, 🔥, and a keyboard by{' '}
-          <TextLink href="https://hoangvvo.com/" color="link">
-            Hoang Vo
+          <TextLink href="https://linkenin.com/c/alan-kemboi-c" color="link">
+            Kemboi Alan
           </TextLink>
           .
         </Text>
