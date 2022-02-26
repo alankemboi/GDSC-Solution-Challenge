@@ -39,8 +39,7 @@
 
 <div align="center">
   
-<sup>Have any features that interest you, [make an issue](https://github.com/alankemboi). Would like to work on a feature, [make a PR](https://github.com/hoangvvo/nextjs-mongodb-app/pulls).<sup>
-  
+<sup>Have any features that interest you, [make an issue](https://github.com/alankemboi)
 </div>
 
 <h2 align="center">Guide</h2>
