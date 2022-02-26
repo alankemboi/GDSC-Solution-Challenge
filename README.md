@@ -1,33 +1,9 @@
 [![Next.js](https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png)](https://nextjs.org)
 
-<h1 align="center">Next.js ❤️ MongoDB</h1>
-
-<div align="center">
-  
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhoangvvo%2Fnextjs-mongodb-app&env=MONGODB_URI,CLOUDINARY_URL,NODEMAILER_CONFIG,WEB_URI&envDescription=Environment%20Variables&envLink=https%3A%2F%2Fgithub.com%2Fhoangvvo%2Fnextjs-mongodb-app%23environmental-variables&demo-title=nextjs-mongodb-app%20demo&demo-description=A%20demo%20deployed%20on%20Vercel&demo-url=https%3A%2F%2Fnextjs-mongodb.vercel.app%2F)
-
-An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www.mongodb.com/) web application, designed with simplicity for learning and real-world applicability in mind.
-
-:rocket: [Check out the demo](https://nextjs-mongodb.vercel.app/) :rocket:
-
-</div>
+<h1 align="center">Kisii Atlassian Next.js ❤️ MongoDB</h1>
 
 <h2 align="center">Features</h2>
 
-<div align="center">
-
-🐇 Fast and light without [bulky](https://bundlephobia.com/result?p=express@4.17.1), [slow](https://github.com/fastify/benchmarks#benchmarks) Express.js.
-
-✨ Full [API Routes](https://nextjs.org/blog/next-9#api-routes) implementation and 👻 Serverless ready
-
-🤠 Good ol' Middleware pattern, compatible with Express ecosystem, powered by [next-connect](https://github.com/hoangvvo/next-connect)
-
-💋 [KISS](https://en.wikipedia.org/wiki/KISS_principle): No fancy stuff like GraphQL, SASS, Redux, etc.
-✍️ Come with explanatory blog posts
-
-📙 Can be adapted to any databases besides MongoDB (Just update [api-lib/db](api-lib/db))
-
-</div>
 
 <h3 align="center">:lock: Authentication and Account</h3>
 
@@ -63,23 +39,11 @@ An [**Next.js**](https://github.com/zeit/next.js/) and [**MongoDB**](https://www
 
 <div align="center">
   
-<sup>Have any features that interest you, [make an issue](https://github.com/hoangvvo/nextjs-mongodb-app/issues). Would like to work on a feature, [make a PR](https://github.com/hoangvvo/nextjs-mongodb-app/pulls).<sup>
+<sup>Have any features that interest you, [make an issue](https://github.com/alankemboi). Would like to work on a feature, [make a PR](https://github.com/hoangvvo/nextjs-mongodb-app/pulls).<sup>
   
 </div>
 
 <h2 align="center">Guide</h2>
-
-This project accompanies the following posts:
-
-- [User authentication (using Passport.js)](https://hoangvvo.com/blog/next-js-and-mongodb-app-1)
-- [User profile and Profile Picture](https://hoangvvo.com/blog/next-js-and-mongodb-app-2)
-- [Email Verification, Password Reset/Changee](https://hoangvvo.com/blog/next-js-and-mongodb-app-3)
-- [Posts and comments](https://hoangvvo.com/blog/next-js-and-mongodb-app-4)
-
-Also check them out on [dev.to](https://dev.to/hoangvvo).
-
-Although the project is written to be secure, its simplicity requires careful considerations for usage in sensitive productions. [File an issue](https://github.com/hoangvvo/nextjs-mongodb-app/issues/new/choose) if you spot any security problems.
-
 <h3 align="center">Dependencies</h3>
 
 This project uses the following dependencies:
@@ -123,11 +87,6 @@ You can also deploy this with serverless providers given the correct setup.
 
 <h2 align="center">Contributing</h2>
 
-<div align="center">
-  
-Please see my [contributing.md](CONTRIBUTING.md).
-
-</div>
 
 <h2 align="center">
   License
