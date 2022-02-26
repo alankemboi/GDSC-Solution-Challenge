@@ -8,6 +8,7 @@ const Hero = () => {
     <Wrapper>
       <div>
         <h1 className={styles.title}>
+         <span className={styles.nextjs}>Kisii Atlassian User Group</span>
           <span className={styles.nextjs}>Next.js</span>
           <span className={styles.mongodb}>MongoDB</span>
           <span>App</span>
